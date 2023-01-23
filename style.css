@@ -157,11 +157,19 @@ background-color: #3C4048;
   .test-img{
     padding-left: 80px;
   }
+  .sdg-logo{
+    margin-left: 150px;
+  }
+
 
 }
 @media (max-width:1200px){
   .test-img{
     padding-left: 50px;
+  }
+
+  .sdg-logo{
+    margin-left: 150px;
   }
 
 }
