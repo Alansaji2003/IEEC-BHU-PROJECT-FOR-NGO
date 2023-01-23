@@ -145,3 +145,13 @@ background-color: #3C4048;
   margin-left: 50px;
 
 }
+@media (max-width:510px){
+  .banarus{
+    display: none;
+
+  }
+  .btn{
+    margin-left: 100px;
+  }
+
+}
