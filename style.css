@@ -58,6 +58,7 @@ margin-left: 120px;
 .test-img{
   width: 80%;
   padding-left: 400px;
+  text-align:center;
 }
 .sdg-text{
   color: white;
@@ -152,6 +153,15 @@ background-color: #3C4048;
   }
   .btn{
     margin-left: 100px;
+  }
+  .test-img{
+    padding-left: 80px;
+  }
+
+}
+@media (max-width:1200px){
+  .test-img{
+    padding-left: 50px;
   }
 
 }
