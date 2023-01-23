@@ -34,12 +34,17 @@ margin-left: 120px;
   background-color: #FAECD6;
   padding-bottom: 100px;
 }
+
 .banarus{
  padding-top: 50px;
   padding-left: 20px;
   width: 30%;
   transform: translate(400px);
 
+}
+.front-img{
+  width: 100%;
+  background-size: contain;
 }
 .middle-container{
   background-color:#B5D5C5;
